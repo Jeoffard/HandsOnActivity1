@@ -1,0 +1,11 @@
+C:\Users\Evone\source\repos\AccountRegistration\AccountRegistration\bin\Debug\AccountRegistration.exe.config
+C:\Users\Evone\source\repos\AccountRegistration\AccountRegistration\bin\Debug\AccountRegistration.exe
+C:\Users\Evone\source\repos\AccountRegistration\AccountRegistration\bin\Debug\AccountRegistration.pdb
+C:\Users\Evone\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.csprojAssemblyReference.cache
+C:\Users\Evone\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.FrmRegistration.resources
+C:\Users\Evone\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.FrmConfirm.resources
+C:\Users\Evone\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.Properties.Resources.resources
+C:\Users\Evone\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.csproj.GenerateResource.cache
+C:\Users\Evone\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.exe
+C:\Users\Evone\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.pdb
+C:\Users\Evone\source\repos\AccountRegistration\AccountRegistration\obj\Debug\AccountRegistration.csproj.CoreCompileInputs.cache
